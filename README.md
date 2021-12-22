@@ -1,4 +1,4 @@
-![](https://emoji.gg/assets/emoji/wavegif_1860.gif =50x50) Hi & Welcome
+#![hi](https://emoji.gg/assets/emoji/wavegif_1860.gif =50x50) Hi & Welcome
 
 
 #### I'm Alexis, a **Front End Developper** from :fr:
