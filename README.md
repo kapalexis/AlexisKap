@@ -7,8 +7,11 @@
 
 ## About me:
 🚀 I'm a learning student at [O'Clock](https://oclock.io) web school
+
 💻 I'm creating ecommerce website as a WordPress freelancer since january 2020
+
 📫 Feel free to get in touch with me by [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:alexis@01h23.fr), [![Twitter](https://img.shields.io/badge/alexiskap_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alexiskap_) or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-kapetanovic-71b84694/)
+
 ✍️ Most of my freetime is spend on : learning things on the internet (through YouTube, articles, Twitter...), watching tv series, films and gaming (PC)
 
 ## 
